@@ -5,9 +5,13 @@
 
 - 💬 Ask me about **Analytics, SQL, Python, tableau**
 
+- <a href="https://public.tableau.com/app/profile/sushma.gangadasari"> Take a look at my tableau Projects</a>
+
 - 📫 How to reach me **sushmagangadasari830@gmail.com**
 
 - ⚡ Fun fact **Enthusiastic Basketball Player and occasional Novel reader**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
